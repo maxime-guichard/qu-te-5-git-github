@@ -1,4 +1,4 @@
-# qu-te-5-git-github
+"REMOTE" # qu-te-5-git-github
 quête 5 git/github merge &amp; conflict
 Toujours dans GitHub, écris quelques lignes de texte dans le fichier README.md.
 Clone le repo.
